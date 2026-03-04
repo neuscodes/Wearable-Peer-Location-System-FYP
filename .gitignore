@@ -1,0 +1,35 @@
+# Flutter
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+.flutter-plugins
+.metadata
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+
+# iOS
+ios/Pods/
+ios/Runner/GoogleService-Info.plist
+
+# Secrets
+.env
+google-services.json
+firebase_options.dart
+*.keystore
+*.jks
+
+# Arduino build
+*.hex
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Demo Video
+*.mov
