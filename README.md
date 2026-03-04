@@ -159,8 +159,13 @@ Steps:
 ## Author
 
 Cho Jing Shun Alvin
+
 Asia Pacific University of Technology & Innovation (APU)
-Bachelor of Science (Honours) in Information Technology (Internet of Things (IoT) Major)
+
+Bachelor of Science (Honours) in Information Technology 
+
+Major: Internet of Things (IoT)
+
 Final Year Project
 
 ---
