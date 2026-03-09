@@ -25,7 +25,7 @@ The solution consists of:
 
 ## Mobile Application
 
-**Platform:** Android only
+**Platform:** Android only\
 **Framework:** Flutter / Dart
 
 ## Mobile Application Functions
@@ -97,7 +97,7 @@ If you wish to reuse the project:
 .
 ├── mobile_app/        # Flutter Android application
 ├── firmware/          # ESP32 Arduino firmware
-├── Reports/           # Documentation, diagrams, demo video
+├── Reports/           # Diagrams, demo video
 └── README.md
 ```
 
@@ -156,15 +156,28 @@ Steps:
 
 ---
 
-## Author
-
-* Cho Jing Shun Alvin
-* Asia Pacific University of Technology & Innovation (APU)
-* Bachelor of Science (Honours) in Information Technology 
-* Major: Internet of Things (IoT)
-* Final Year Project
+## Live Demo Link (YouTube)
+https://youtu.be/JDha4yUWoLA
 
 ---
 
-## Live Demo Link (YouTube)
-https://youtu.be/JDha4yUWoLA
+## Disclaimer
+This project was developed as part of a Final Year Project (FYP). The repository is published as a portfolio demonstration of the system design and implementation conducted during the project.\
+
+The software and hardware implementations are provided as-is without any guarantees for real-world deployment. The system was tested within the scope of the academic project, and is not evaluated for production or commercial use.\
+
+Any usage of the code or design from this repository is done at the **user's own risk.**\
+
+The thesis document remains the property of the university, and this repository only contains selected project materials for **educational and demonstration purposes only.**\
+
+---
+
+## Author/Credits
+
+Cho Jing Shun Alvin\
+Fresh Graduate\
+Asia Pacific University of Technology & Innovation (APU)\
+Bachelor of Science (Honours) in Information Technology\
+Major: Internet of Things (IoT)\
+
+---
